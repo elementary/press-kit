@@ -2,7 +2,7 @@
 
 Official elementary OS 6.1 Press Kit
 
-![Screenshot](jolnir.png)
+![Screenshot](6-1.png)
 
 Screenshots are taken at 2× scaling for HiDPI. If there's something missing or you'd like more information, please reply to your OS 6.1 announcement email or send an email to press@elementary.io.
 
