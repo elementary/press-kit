@@ -1,10 +1,12 @@
 # press-kit
 
-Official elementary OS 8.0 Press Kit
+Official elementary OS 8.1 Press Kit
 
 ![Screenshot](8-0.png)
 
-Screenshots are taken at 2× scaling for HiDPI. If there's something missing or you'd like more information, please reply to your OS 8.0 announcement email or send an email to press@elementary.io.
+Screenshots are taken at 2× scaling for HiDPI. If there's something missing or you'd like more information, please reply to your OS 8.1 announcement email or send an email to press@elementary.io.
+
+A summarized version of our release notes is also available [here](Release%20Notes%20Summary.md)
 
 Additional resources:
 
