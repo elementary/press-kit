@@ -112,6 +112,8 @@ To get elementary OS 8.1 now, head to elementary.io for the download
 * support for Intel "Lunar Lake" processors
 * Support for more webcams, USB network devices, joysticks and gamepads, wifi devices, microphones, and more
 
+* ARM64 support for devices that boot with UEFI
+
 * Fractional display scaling is now available in the Secure Session
 
 * Resolved several reported issues with multi-monitor
